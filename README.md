@@ -15,4 +15,7 @@ This is a web application that allows users to edit text in their browser. It us
 - A code editor like Visual Studio Code. You can download it from [here](https://code.visualstudio.com/download).
   
 
-## 
+[Visit my website!](https://progression-web-app-04b029fdf734.herokuapp.com/)
+
+## Screenshot
+![Screenshot of my website](/WeatherScreenshot.png)
