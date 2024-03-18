@@ -4,13 +4,15 @@ This is a web application that allows users to edit text in their browser. It us
 
 ## Features
 
+## Technologies Used
 **React**: Used for the front end development of the application
-**React**: Used for the front end development of the application
-**React**: Used for the front end development of the application
+**IndexedDB**: Used for offline Storage and workbox for service workers
+**Express.js**: Used the server-side development of the application
 
 ### Prerequisites
 
 - Node.js and npm installed on your machine. You can download them from [here](https://nodejs.org/en/download/).
 - A code editor like Visual Studio Code. You can download it from [here](https://code.visualstudio.com/download).
+  
 
-
+## 
