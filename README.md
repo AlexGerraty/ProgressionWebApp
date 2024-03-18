@@ -4,6 +4,10 @@ This is a web application that allows users to edit text in their browser. It us
 
 ## Features
 
+Text editor that caches data with service workers.
+Installable Button that allows the application to be downloaded onto a computer
+
+
 ## Technologies Used
 **React**: Used for the front end development of the application
 **IndexedDB**: Used for offline Storage and workbox for service workers
