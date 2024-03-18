@@ -4,8 +4,8 @@ This is a web application that allows users to edit text in their browser. It us
 
 ## Features
 
-Text editor that caches data with service workers.
-Installable Button that allows the application to be downloaded onto a computer
+- Text editor that caches data with service workers.
+- Installable Button that allows the application to be downloaded onto a computer
 
 
 ## Technologies Used
