@@ -18,4 +18,9 @@ This is a web application that allows users to edit text in their browser. It us
 [Visit my website!](https://progression-web-app-04b029fdf734.herokuapp.com/)
 
 ## Screenshot
-![Screenshot of my website](/WeatherScreenshot.png)
+![Screenshot of my website](/PWAScreenshot.png)
+
+
+## Author
+
+Made by Alex Gerraty
